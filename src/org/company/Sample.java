@@ -10,6 +10,7 @@ public class Sample extends Hello {
 		System.out.println("int para constructor");
 		System.out.println(id);
 		System.out.println("branch2");
+		System.out.println("branch1");
 	}
 	public static void main(String[] args) {
 		Sample s=new Sample();
