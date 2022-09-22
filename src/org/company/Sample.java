@@ -11,6 +11,9 @@ public class Sample extends Hello {
 		System.out.println(id);
 		System.out.println("branch2");
 		System.out.println("branch1");
+		System.out.println("abc");
+		System.out.println("123");
+		
 	}
 	public static void main(String[] args) {
 		Sample s=new Sample();
